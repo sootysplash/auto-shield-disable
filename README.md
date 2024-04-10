@@ -1,6 +1,6 @@
 # Auto Shield Disable
 
-This mini cheat was made by me on request by another player. It was leaked by someone else so now I'm publishing it.
+This mini cheat was made because of a request from Rural. It was leaked by someone else so now I'm publishing it.
 
 # Binds and settings
 
